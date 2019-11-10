@@ -8,9 +8,9 @@
 
     <ImageButton
         android:id="@+id/btnneck"
-        android:layout_width="177dp"
+        android:layout_width="180dp"
         android:layout_height="248dp"
-        android:layout_marginStart="24dp"
+        android:layout_marginStart="28dp"
         android:layout_marginLeft="24dp"
         android:layout_marginTop="4dp"
         android:scaleType="fitXY"
